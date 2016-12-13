@@ -29,7 +29,7 @@ footer-links:
   twitter: /jaimerepizo
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: //plus.google.com/u/0/+jaimerepizo # anything in your profile username that comes after plus.google.com/
+  googleplus: /u/0/+jaimerepizo # anything in your profile username that comes after plus.google.com/
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
